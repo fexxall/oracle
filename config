@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaaxc3dbmeticrgsz2n3sdztn6iamqvphin4nl6groa3atpdnlzepwa
+fingerprint=74:24:cc:8e:1c:aa:38:56:8f:eb:1b:02:aa:48:19:3b
+tenancy=ocid1.tenancy.oc1..aaaaaaaajj5lfefnht5fn6lqndu4lhrrwwyu55sc2vom4dcmxljura73rbca
+region=eu-madrid-1
+key_file=oci_private_key.pem
