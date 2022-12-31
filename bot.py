@@ -1,4 +1,4 @@
-displayName = 'fex'
+displayName = 'heaven'
 compartmentId = 'ocid1.tenancy.oc1..aaaaaaaajj5lfefnht5fn6lqndu4lhrrwwyu55sc2vom4dcmxljura73rbca'
 availabilityDomain = "RCGJ:EU-MADRID-1-AD-1"
 imageId = 'ocid1.image.oc1.eu-madrid-1.aaaaaaaajaefqjgq5rs5gllnvwtpggvoh765cdoqoxd4ddxnq5ibhp6tmusq'
